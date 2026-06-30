@@ -63,19 +63,23 @@ const locItems = [
 ]
 
 // ── 페이지 타이틀 스티키 ─────────────────────────────────────
+const isLocBarSticky = ref(false)
 const isPageTitleSticky = ref(false)
+const titleTop = ref('')
 let scrollHandler = null
 
 onMounted(() => {
-  const locBarEl = document.querySelector('.loc-bar')
-  const threshold = locBarEl ? locBarEl.offsetTop - 66 : 100
-
   scrollHandler = () => {
-    isPageTitleSticky.value = window.scrollY > threshold
+    const locBarEl = document.querySelector('.loc-bar')
+    if (!locBarEl) return
+    const titleEl = document.querySelector('.page-title-area')
+    const stuck = locBarEl.getBoundingClientRect().top <= 66
+    isLocBarSticky.value = stuck
+    isPageTitleSticky.value = stuck
+    if (titleEl) titleTop.value = stuck ? (66 + locBarEl.offsetHeight) + 'px' : ''
   }
-
-  window.addEventListener('scroll', scrollHandler, { passive: true })
   scrollHandler()
+  window.addEventListener('scroll', scrollHandler, { passive: true })
 })
 
 onUnmounted(() => {
@@ -98,7 +102,7 @@ function goBack() {
   </section>
 
   <!-- 브레드크럼 -->
-  <LocBar :items="locItems" />
+  <LocBar :items="locItems" :class="{ 'is-sticky': isLocBarSticky }" />
 
   <!-- 본문 -->
   <main class="page-content">
@@ -107,6 +111,7 @@ function goBack() {
       <div
         class="page-title-area"
         :class="{ 'is-sticky': isPageTitleSticky }"
+        :style="titleTop ? { top: titleTop } : {}"
       >
         <h2>사업 참가 신청 정보</h2>
         <p>사업 참가 신청 내역의 상세 정보를 확인합니다.</p>

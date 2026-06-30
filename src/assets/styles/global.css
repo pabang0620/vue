@@ -20,9 +20,7 @@ body .loc-select { font-weight: 400; }
    step-body는 position:relative;z-index:1로 STEP별 stacking context를 만들어 형제 STEP에 가려지므로
    z-index를 올려 펼쳐진 패널이 아래 STEP 위에 표시되도록 한다. */
 .step-body.collapsible:has(.cms-trigger.open) { overflow: visible; z-index: 10; }
-/* 커스텀 셀렉트 트리거에서 칩 바로 뒤 placeholder("최대 N개 선택 완료")가 칩에 붙는 문제
-   — 칩이 있을 때만 좌측 간격 부여(칩 0개일 땐 인접 형제 미매칭으로 영향 없음) */
-.cms-chip + .cms-placeholder { margin-left: 6px; }
+.cms-chips { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; }
 /* 카테고리 2·3차 빈 상태 안내(.sidebar-empty-hint)를 .cat-item과 좌측 정렬 맞춤 */
 .cat-list .sidebar-empty-hint { display: block; padding: 7px 14px; }
 .section-title { text-align: center; margin-bottom: 48px; }

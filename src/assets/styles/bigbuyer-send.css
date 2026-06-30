@@ -294,6 +294,7 @@
 /* ── 뱃지 스타일 ── */
 .criteria-cat-chip { display: inline-flex; align-items: center; gap: 6px; background: #1B8A6B; color: #fff; border-radius: 20px; padding: 6px 14px; font-size: 15px; font-weight: 500; }
 .criteria-country-chip { display: inline-flex; align-items: center; gap: 6px; background: #C05C00; color: #fff; border-radius: 20px; padding: 6px 14px; font-size: 15px; font-weight: 500; }
+.criteria-kw-chip { display: inline-flex; align-items: center; gap: 6px; background: var(--blue); color: #fff; border-radius: 20px; padding: 6px 14px; font-size: 15px; font-weight: 500; }
 .readonly-note {
   font-size: 13px;
   color: #999;

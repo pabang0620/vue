@@ -6,28 +6,27 @@ import LocBar from '../components/layout/LocBar.vue'
 const router = useRouter()
 
 // ── 스크롤 스티키 상태 ──────────────────────────────────────
-const locBarRef = ref(null)
 const isLocSticky = ref(false)
 const isTitleSticky = ref(false)
-let scrollThreshold = 0
-
-function handleScroll() {
-  const stuck = window.scrollY > scrollThreshold
-  isLocSticky.value = stuck
-  isTitleSticky.value = stuck
-}
+const titleTop = ref('')
+let scrollHandler = null
 
 onMounted(() => {
-  // loc-bar 위치 기준으로 스티키 임계값 계산
-  if (locBarRef.value?.$el) {
-    scrollThreshold = locBarRef.value.$el.offsetTop - 66
+  scrollHandler = () => {
+    const locBarEl = document.querySelector('.loc-bar')
+    if (!locBarEl) return
+    const titleEl = document.querySelector('.page-title-area')
+    const stuck = locBarEl.getBoundingClientRect().top <= 66
+    isLocSticky.value = stuck
+    isTitleSticky.value = stuck
+    if (titleEl) titleTop.value = stuck ? (66 + locBarEl.offsetHeight) + 'px' : ''
   }
-  window.addEventListener('scroll', handleScroll, { passive: true })
-  handleScroll()
+  scrollHandler()
+  window.addEventListener('scroll', scrollHandler, { passive: true })
 })
 
 onUnmounted(() => {
-  window.removeEventListener('scroll', handleScroll)
+  if (scrollHandler) window.removeEventListener('scroll', scrollHandler)
 })
 
 // ── 샘플 데이터 (원본 allData + HTML 행 시각 반영) ────────
@@ -88,7 +87,6 @@ const locBarItems = [
 
   <!-- ── 브레드크럼 ── -->
   <LocBar
-    ref="locBarRef"
     :class="{ 'is-sticky': isLocSticky }"
     :items="locBarItems"
   />
@@ -97,7 +95,7 @@ const locBarItems = [
   <main class="page-content">
     <div class="wrap">
 
-      <div class="page-title-area" :class="{ 'is-sticky': isTitleSticky }">
+      <div class="page-title-area" :class="{ 'is-sticky': isTitleSticky }" :style="titleTop ? { top: titleTop } : {}">
         <h2>임시저장내역</h2>
         <p>작성 중인 마케팅 메시지 임시저장 내역을 조회합니다.</p>
       </div>

@@ -83,25 +83,27 @@ function goToDetail() {
 }
 
 // ── 스티키 처리 ──
-const pageTitleRef = ref(null)
+const isLocBarSticky = ref(false)
 const isTitleSticky = ref(false)
-let scrollThreshold = 0
-
-function handleScroll() {
-  isTitleSticky.value = window.scrollY > scrollThreshold
-}
+const titleTop = ref('')
+let scrollHandler = null
 
 onMounted(() => {
-  const locBarEl = document.querySelector('.loc-bar')
-  if (locBarEl) {
-    scrollThreshold = locBarEl.offsetTop - 66
+  scrollHandler = () => {
+    const locBarEl = document.querySelector('.loc-bar')
+    if (!locBarEl) return
+    const titleEl = document.querySelector('.page-title-area')
+    const stuck = locBarEl.getBoundingClientRect().top <= 66
+    isLocBarSticky.value = stuck
+    isTitleSticky.value = stuck
+    if (titleEl) titleTop.value = stuck ? (66 + locBarEl.offsetHeight) + 'px' : ''
   }
-  window.addEventListener('scroll', handleScroll, { passive: true })
-  handleScroll()
+  scrollHandler()
+  window.addEventListener('scroll', scrollHandler, { passive: true })
 })
 
 onUnmounted(() => {
-  window.removeEventListener('scroll', handleScroll)
+  if (scrollHandler) window.removeEventListener('scroll', scrollHandler)
 })
 </script>
 
@@ -115,16 +117,16 @@ onUnmounted(() => {
   </section>
 
   <!-- ── 브레드크럼 ── -->
-  <LocBar :items="locItems" />
+  <LocBar :items="locItems" :class="{ 'is-sticky': isLocBarSticky }" />
 
   <!-- ── 메인 콘텐츠 ── -->
   <main class="page-content">
     <div class="wrap">
 
       <div
-        ref="pageTitleRef"
         class="page-title-area"
         :class="{ 'is-sticky': isTitleSticky }"
+        :style="titleTop ? { top: titleTop } : {}"
       >
         <h2>신청내역</h2>
         <p>사업 참가 신청 내역을 조회합니다.</p>

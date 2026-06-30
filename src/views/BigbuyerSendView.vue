@@ -147,6 +147,19 @@ onUnmounted(() => {
       <!-- ── 폼 영역 ── -->
       <div class="send-form-card">
 
+        <!-- 검색어 (읽기 전용) -->
+        <div class="form-row">
+          <div class="form-label">검색어</div>
+          <div class="form-field" style="flex-wrap: wrap; gap: 8px;">
+            <template v-if="store.keywords.length">
+              <span v-for="(kw, idx) in store.keywords" :key="idx" class="criteria-kw-chip">{{ kw }}</span>
+            </template>
+            <template v-else>
+              <span class="readonly-note">선택된 검색어가 없습니다.</span>
+            </template>
+          </div>
+        </div>
+
         <!-- 카테고리 (읽기 전용) -->
         <div class="form-row">
           <div class="form-label">카테고리</div>
