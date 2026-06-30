@@ -1,0 +1,1946 @@
+[
+  {
+    "categoryNo": "11",
+    "categoryNm": "Beauty&Personal Care",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1111",
+        "categoryNm": "Beauty",
+        "upCategoryNo": "11",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1111101",
+            "categoryNm": "Body & Nail",
+            "upCategoryNo": "1111",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1111102",
+            "categoryNm": "Beauty Appliance",
+            "upCategoryNo": "1111",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1111103",
+            "categoryNm": "Fragrance & Deodorant",
+            "upCategoryNo": "1111",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1111104",
+            "categoryNm": "Makeup",
+            "upCategoryNo": "1111",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1111105",
+            "categoryNm": "Makeup Tools",
+            "upCategoryNo": "1111",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1111106",
+            "categoryNm": "Other Beauty Products",
+            "upCategoryNo": "1111",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1112",
+        "categoryNm": "Personal Care",
+        "upCategoryNo": "11",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1112107",
+            "categoryNm": "Bath Supplies",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112108",
+            "categoryNm": "Body Care",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112109",
+            "categoryNm": "Facial Care",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112110",
+            "categoryNm": "Hair Care",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112111",
+            "categoryNm": "Home Care",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112112",
+            "categoryNm": "Oral Hygiene",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112113",
+            "categoryNm": "Sanitary Paper",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112114",
+            "categoryNm": "Shaving & Hair Removal",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1112115",
+            "categoryNm": "Other Personal Care",
+            "upCategoryNo": "1112",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "12",
+    "categoryNm": "Food & Beverage",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1213",
+        "categoryNm": "Beverages",
+        "upCategoryNo": "12",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1213116",
+            "categoryNm": "Alcoholic Beverages",
+            "upCategoryNo": "1213",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1213117",
+            "categoryNm": "Coffee & Tea",
+            "upCategoryNo": "1213",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1213118",
+            "categoryNm": "Dairy",
+            "upCategoryNo": "1213",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1213119",
+            "categoryNm": "Drinks",
+            "upCategoryNo": "1213",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1213120",
+            "categoryNm": "Other Beverages",
+            "upCategoryNo": "1213",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1214",
+        "categoryNm": "Foods",
+        "upCategoryNo": "12",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1214122",
+            "categoryNm": "Animal Products",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214141",
+            "categoryNm": "Plant & Animal Oil",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214142",
+            "categoryNm": "Plant Seeds",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214143",
+            "categoryNm": "Seafood",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214144",
+            "categoryNm": "Seasonings & Condiments",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214145",
+            "categoryNm": "Snacks",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214146",
+            "categoryNm": "Vegetables",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1214147",
+            "categoryNm": "Other Foods",
+            "upCategoryNo": "1214",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "14",
+    "categoryNm": "Home & Kitchen",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1419",
+        "categoryNm": "Home",
+        "upCategoryNo": "14",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1419183",
+            "categoryNm": "Baby Supplies & Products",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419184",
+            "categoryNm": "Bathroom",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419185",
+            "categoryNm": "Bedding",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419186",
+            "categoryNm": "Cleaning Supplies",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419187",
+            "categoryNm": "Doors & Windows",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419188",
+            "categoryNm": "Furniture",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419189",
+            "categoryNm": "Garden",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419190",
+            "categoryNm": "Home Decor",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419191",
+            "categoryNm": "Home Storage & Organization",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419192",
+            "categoryNm": "Household Accessories",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419193",
+            "categoryNm": "Home Lighting",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419194",
+            "categoryNm": "Laundry",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419195",
+            "categoryNm": "Pet Products",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419196",
+            "categoryNm": "Watering & Irrigation Supplies",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1419197",
+            "categoryNm": "Other Home Products",
+            "upCategoryNo": "1419",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1420",
+        "categoryNm": "Kitchen",
+        "upCategoryNo": "14",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1420198",
+            "categoryNm": "Cookware & Cooking Tools",
+            "upCategoryNo": "1420",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1420200",
+            "categoryNm": "Kitchen Utensil & Storage",
+            "upCategoryNo": "1420",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1420201",
+            "categoryNm": "Tableware",
+            "upCategoryNo": "1420",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1420202",
+            "categoryNm": "Other Kitchen",
+            "upCategoryNo": "1420",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "13",
+    "categoryNm": "Fashion",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1317",
+        "categoryNm": "Textile",
+        "upCategoryNo": "13",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1317171",
+            "categoryNm": "Fabric",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1317173",
+            "categoryNm": "Fiber",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1317174",
+            "categoryNm": "Home Textile",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1317175",
+            "categoryNm": "Leather",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1317176",
+            "categoryNm": "Textile Accessories & Supplies",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1317177",
+            "categoryNm": "Yarn",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1317178",
+            "categoryNm": "Other Textiles",
+            "upCategoryNo": "1317",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1318",
+        "categoryNm": "Fashion Manufacturing",
+        "upCategoryNo": "13",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1318179",
+            "categoryNm": "Bag Materials & Parts",
+            "upCategoryNo": "1318",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1318180",
+            "categoryNm": "Garment Accessories",
+            "upCategoryNo": "1318",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1318181",
+            "categoryNm": "Shoe Materials & Parts",
+            "upCategoryNo": "1318",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1318182",
+            "categoryNm": "Other Fashion Manufacturing Materials",
+            "upCategoryNo": "1318",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1315",
+        "categoryNm": "Clothing",
+        "upCategoryNo": "13",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1315148",
+            "categoryNm": "Children Clothing",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315149",
+            "categoryNm": "Costumes & Uniforms",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315150",
+            "categoryNm": "Infant & Toddler Clothing",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315151",
+            "categoryNm": "Men Clothing",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315152",
+            "categoryNm": "Scarves & Ties",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315153",
+            "categoryNm": "Sleepwear & Underwear",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315154",
+            "categoryNm": "Socks & Tights",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315155",
+            "categoryNm": "Sportswear",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315156",
+            "categoryNm": "Used Clothes",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315157",
+            "categoryNm": "Women Clothing",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1315158",
+            "categoryNm": "Other Clothing",
+            "upCategoryNo": "1315",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1316",
+        "categoryNm": "Fashion Accessories",
+        "upCategoryNo": "13",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1316159",
+            "categoryNm": "Belts",
+            "upCategoryNo": "1316",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1316160",
+            "categoryNm": "Bags & Luggages",
+            "upCategoryNo": "1316",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1316161",
+            "categoryNm": "Eyewear",
+            "upCategoryNo": "1316",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1316162",
+            "categoryNm": "Hair Accessories",
+            "upCategoryNo": "1316",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "16",
+    "categoryNm": "Stationery & Printing",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1624",
+        "categoryNm": "Printing",
+        "upCategoryNo": "16",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1624220",
+            "categoryNm": "Printing Machines",
+            "upCategoryNo": "1624",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1624221",
+            "categoryNm": "Printing Materials",
+            "upCategoryNo": "1624",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1624222",
+            "categoryNm": "Printing Papers",
+            "upCategoryNo": "1624",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1624223",
+            "categoryNm": "Printing Service",
+            "upCategoryNo": "1624",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1624224",
+            "categoryNm": "Printer Supplies",
+            "upCategoryNo": "1624",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1624225",
+            "categoryNm": "Other Printing Supplies",
+            "upCategoryNo": "1624",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1625",
+        "categoryNm": "Office Stationery",
+        "upCategoryNo": "16",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1625226",
+            "categoryNm": "Boards & Markers",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625234",
+            "categoryNm": "Other Office Supplies",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625227",
+            "categoryNm": "Calculators & Rulers",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625228",
+            "categoryNm": "Cutting & Adhesive Supplies",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625229",
+            "categoryNm": "Eraser & Correction Products",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625230",
+            "categoryNm": "Files & Binders",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625231",
+            "categoryNm": "Office Equipment",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625232",
+            "categoryNm": "Office Furniture",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1625233",
+            "categoryNm": "Office Storage Supplies",
+            "upCategoryNo": "1625",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1626",
+        "categoryNm": "School & Education",
+        "upCategoryNo": "16",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1626235",
+            "categoryNm": "Event Papers",
+            "upCategoryNo": "1626",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1626236",
+            "categoryNm": "Education Supplies",
+            "upCategoryNo": "1626",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1626237",
+            "categoryNm": "Notebooks & Memos",
+            "upCategoryNo": "1626",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1626238",
+            "categoryNm": "Pens & Pencils",
+            "upCategoryNo": "1626",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1626239",
+            "categoryNm": "Stationery Set",
+            "upCategoryNo": "1626",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1626240",
+            "categoryNm": "Other School & Education Supplies",
+            "upCategoryNo": "1626",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "17",
+    "categoryNm": "Health & Medical",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1727",
+        "categoryNm": "Medical Devices",
+        "upCategoryNo": "17",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1727241",
+            "categoryNm": "Beauty Equipment",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727242",
+            "categoryNm": "Clinical Analytical Instrument",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727243",
+            "categoryNm": "Dental Equipment",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727246",
+            "categoryNm": "Hospital Furniture",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727247",
+            "categoryNm": "Medical Consumables",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727249",
+            "categoryNm": "Respiratory Equipment",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727250",
+            "categoryNm": "Sterilization Equipment",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1727251",
+            "categoryNm": "Surgical Equipment",
+            "upCategoryNo": "1727",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1728",
+        "categoryNm": "Health",
+        "upCategoryNo": "17",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1728253",
+            "categoryNm": "Extract",
+            "upCategoryNo": "1728",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1728254",
+            "categoryNm": "Health Products",
+            "upCategoryNo": "1728",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1728255",
+            "categoryNm": "Pharmaceuticals",
+            "upCategoryNo": "1728",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1728256",
+            "categoryNm": "Pharmaceutical Chemicals",
+            "upCategoryNo": "1728",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "15",
+    "categoryNm": "Sport, Gifts & Toys",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1522",
+        "categoryNm": "Gifts & Crafts",
+        "upCategoryNo": "15",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1522211",
+            "categoryNm": "Crafts",
+            "upCategoryNo": "1522",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1522212",
+            "categoryNm": "Event Supplies",
+            "upCategoryNo": "1522",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1522213",
+            "categoryNm": "Wedding Supplies",
+            "upCategoryNo": "1522",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1522214",
+            "categoryNm": "Gifts",
+            "upCategoryNo": "1522",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1523",
+        "categoryNm": "Toys & Hobbies",
+        "upCategoryNo": "15",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1523216",
+            "categoryNm": "Animation & Character Service",
+            "upCategoryNo": "1523",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1523217",
+            "categoryNm": "Hobbies",
+            "upCategoryNo": "1523",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1523218",
+            "categoryNm": "Toys",
+            "upCategoryNo": "1523",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1523219",
+            "categoryNm": "Other Toys & Hobbies",
+            "upCategoryNo": "1523",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1521",
+        "categoryNm": "Sports & Entertainment",
+        "upCategoryNo": "15",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1521203",
+            "categoryNm": "Fitness & Body Building",
+            "upCategoryNo": "1521",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1521204",
+            "categoryNm": "Indoor Sports",
+            "upCategoryNo": "1521",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1521205",
+            "categoryNm": "Outdoor Sports",
+            "upCategoryNo": "1521",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "19",
+    "categoryNm": "Vehicles & Accessories",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1931",
+        "categoryNm": "Vehicles",
+        "upCategoryNo": "19",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1931276",
+            "categoryNm": "Auto Drive & Brake Systems",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931277",
+            "categoryNm": "Auto Engine",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931278",
+            "categoryNm": "Automobiles",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931279",
+            "categoryNm": "Boats & Ships",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931280",
+            "categoryNm": "Emergency Vehicles",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931281",
+            "categoryNm": "Special Transportation",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931282",
+            "categoryNm": "Trucks & Trailers",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1931283",
+            "categoryNm": "Other Vehicles",
+            "upCategoryNo": "1931",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1932",
+        "categoryNm": "Vehicle Accessories",
+        "upCategoryNo": "19",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1932284",
+            "categoryNm": "Auto Electrical System",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932296",
+            "categoryNm": "Vehicle Tools",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932297",
+            "categoryNm": "Vehicle Universal Parts",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932298",
+            "categoryNm": "Wheels, Rims & Tires",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932299",
+            "categoryNm": "Other Vehicle Accessories",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932285",
+            "categoryNm": "Auto Electronics",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932286",
+            "categoryNm": "Bicycles & Motorcycles Accessories",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932287",
+            "categoryNm": "Car Body Parts",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932288",
+            "categoryNm": "Car Accessories",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932289",
+            "categoryNm": "Car Cameras & Navigation",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932290",
+            "categoryNm": "Car Care & Cleaning",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932291",
+            "categoryNm": "Motorcycles & Parts",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932292",
+            "categoryNm": "Suspension Systems",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932293",
+            "categoryNm": "Train & Railway Supplies",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932294",
+            "categoryNm": "Truck Accessories & Parts",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1932295",
+            "categoryNm": "Vehicle Equipment",
+            "upCategoryNo": "1932",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "18",
+    "categoryNm": "Electronic Products",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "1830",
+        "categoryNm": "Home Appliances",
+        "upCategoryNo": "18",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1830267",
+            "categoryNm": "Cleaning Appliances",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830268",
+            "categoryNm": "Air Conditioning Appliances",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830269",
+            "categoryNm": "Home Audio & Television",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830270",
+            "categoryNm": "Home Heaters",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830271",
+            "categoryNm": "Home Security System",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830272",
+            "categoryNm": "Kitchen Appliances",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830273",
+            "categoryNm": "Laundry Appliances",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830274",
+            "categoryNm": "Water Treatment Appliances",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1830275",
+            "categoryNm": "Other Home Appliances",
+            "upCategoryNo": "1830",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "1829",
+        "categoryNm": "Consumer Electronics",
+        "upCategoryNo": "18",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "1829257",
+            "categoryNm": "Cameras & Photos",
+            "upCategoryNo": "1829",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "1829258",
+            "categoryNm": "Earphones & Headphones",
+            "upCategoryNo": "1829",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "20",
+    "categoryNm": "Equipment & Packaging",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "2033",
+        "categoryNm": "Packaging",
+        "upCategoryNo": "20",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2033300",
+            "categoryNm": "Cosmetics Packaging",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033301",
+            "categoryNm": "Food Packaging",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033302",
+            "categoryNm": "Gift Packaging",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033303",
+            "categoryNm": "Packaging Machines",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033304",
+            "categoryNm": "Packaging Printing Service",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033305",
+            "categoryNm": "Packaging Supplies",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033306",
+            "categoryNm": "Pharmaceutical Packaging",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033308",
+            "categoryNm": "Shipping Packaging",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2033309",
+            "categoryNm": "Other Packaging",
+            "upCategoryNo": "2033",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2034",
+        "categoryNm": "Equipment",
+        "upCategoryNo": "20",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2034310",
+            "categoryNm": "Advertising Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034311",
+            "categoryNm": "Agricultural Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034312",
+            "categoryNm": "Cargo & Storage Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034313",
+            "categoryNm": "Chemical Machinery Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034314",
+            "categoryNm": "Electrical Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034316",
+            "categoryNm": "General Industrial Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034317",
+            "categoryNm": "Material Handling Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034318",
+            "categoryNm": "Radio & TV Broadcasting Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034319",
+            "categoryNm": "Restaurant & Hotel Equipment",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2034320",
+            "categoryNm": "Store & Supermarket Supplies",
+            "upCategoryNo": "2034",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "21",
+    "categoryNm": "Electrical Components & Telecoms",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "2135",
+        "categoryNm": "Electrical Components",
+        "upCategoryNo": "21",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2135323",
+            "categoryNm": "Active Components",
+            "upCategoryNo": "2135",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2135324",
+            "categoryNm": "Batteries",
+            "upCategoryNo": "2135",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2135329",
+            "categoryNm": "Power Supplies",
+            "upCategoryNo": "2135",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2135330",
+            "categoryNm": "Switches",
+            "upCategoryNo": "2135",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2135331",
+            "categoryNm": "Other Electronic Components",
+            "upCategoryNo": "2135",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2136",
+        "categoryNm": "Telecoms",
+        "upCategoryNo": "21",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2136332",
+            "categoryNm": "Communication Equipment",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2136333",
+            "categoryNm": "Connectors & Terminals",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2136334",
+            "categoryNm": "Electronic Data Systems",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2136335",
+            "categoryNm": "Telecommunication Services",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2136336",
+            "categoryNm": "Telephones & Accessories",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2136337",
+            "categoryNm": "Wires & Cables",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2136338",
+            "categoryNm": "Other Electronic Telecoms",
+            "upCategoryNo": "2136",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "23",
+    "categoryNm": "Industrial Supplies",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "2339",
+        "categoryNm": "Minerals & Metallurgy",
+        "upCategoryNo": "23",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2339376",
+            "categoryNm": "Aluminum",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339377",
+            "categoryNm": "Cast & Forged",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339378",
+            "categoryNm": "Copper",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339379",
+            "categoryNm": "Iron",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339380",
+            "categoryNm": "Metal Scrap",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339381",
+            "categoryNm": "Steel",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339382",
+            "categoryNm": "Titanium",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339383",
+            "categoryNm": "Refractory",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339384",
+            "categoryNm": "Graphite Products",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339387",
+            "categoryNm": "Quartz Products",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339389",
+            "categoryNm": "Wire Mesh",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2339390",
+            "categoryNm": "Other Minerals & Metallurgy Products",
+            "upCategoryNo": "2339",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2340",
+        "categoryNm": "Chemicals",
+        "upCategoryNo": "23",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2340391",
+            "categoryNm": "Agrochemicals & Pesticides",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340392",
+            "categoryNm": "Basic Organic Chemicals",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340394",
+            "categoryNm": "Ceramics",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340395",
+            "categoryNm": "Coating & Paint",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340396",
+            "categoryNm": "Daily Chemicals",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340397",
+            "categoryNm": "Dyestuffs",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340398",
+            "categoryNm": "Fertilizer",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340399",
+            "categoryNm": "Fiberglass Products",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340400",
+            "categoryNm": "Inorganic Chemicals",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2340403",
+            "categoryNm": "Other Chemicals",
+            "upCategoryNo": "2340",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2342",
+        "categoryNm": "Energy & Enviroment",
+        "upCategoryNo": "23",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2342410",
+            "categoryNm": "Environmental Products",
+            "upCategoryNo": "2342",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2342411",
+            "categoryNm": "Solar Energy",
+            "upCategoryNo": "2342",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2341",
+        "categoryNm": "Rubber & Plastics",
+        "upCategoryNo": "23",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2341404",
+            "categoryNm": "Adhesives & Sealants",
+            "upCategoryNo": "2341",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "22",
+    "categoryNm": "Machinery & Parts",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "2238",
+        "categoryNm": "Machinery Parts",
+        "upCategoryNo": "22",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2238360",
+            "categoryNm": "Abrasives & Abrasive Tools",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238361",
+            "categoryNm": "Bearings",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238362",
+            "categoryNm": "Fasteners",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238363",
+            "categoryNm": "Filter Supplies",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238364",
+            "categoryNm": "Flanges",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238365",
+            "categoryNm": "Hydraulic Tools",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238366",
+            "categoryNm": "Machinery Tools",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238367",
+            "categoryNm": "Motors",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238368",
+            "categoryNm": "Molds",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238369",
+            "categoryNm": "Pipe Fittings",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238370",
+            "categoryNm": "Power Tools",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238371",
+            "categoryNm": "Power Transmission Parts",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238372",
+            "categoryNm": "Seals",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238373",
+            "categoryNm": "Valves",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2238374",
+            "categoryNm": "Welding & Soldering Supplies",
+            "upCategoryNo": "2238",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2237",
+        "categoryNm": "Machinery",
+        "upCategoryNo": "22",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2237339",
+            "categoryNm": "Agriculture & Farm Machinery",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237340",
+            "categoryNm": "Analyzers",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237341",
+            "categoryNm": "Apparel & Accessories Machinery",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237342",
+            "categoryNm": "Chemical & Pharmaceutical Machinery",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237343",
+            "categoryNm": "Electrical Instrument",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237344",
+            "categoryNm": "Energy & Mineral Equipment",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237345",
+            "categoryNm": "Food & Beverage Machinery",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237346",
+            "categoryNm": "Home Product Making Machinery",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237347",
+            "categoryNm": "Industry Laser Equipment & Parts",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237348",
+            "categoryNm": "Measuring & Gauging",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2237349",
+            "categoryNm": "Metal & Metallurgy Machinery",
+            "upCategoryNo": "2237",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryNo": "24",
+    "categoryNm": "Construction & Safety",
+    "upCategoryNo": "0",
+    "categoryDepth": "1",
+    "children": [
+      {
+        "categoryNo": "2443",
+        "categoryNm": "Construction",
+        "upCategoryNo": "24",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2443412",
+            "categoryNm": "Building Constructing Materials",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443413",
+            "categoryNm": "Building Exterior Materials",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443414",
+            "categoryNm": "Building Interior Materials",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443422",
+            "categoryNm": "LED Lighting",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443423",
+            "categoryNm": "Masonry Materials",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443424",
+            "categoryNm": "Outdoor Lighting",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443425",
+            "categoryNm": "Quarry Stone & Slabs",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443426",
+            "categoryNm": "Real Estate",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443427",
+            "categoryNm": "Building Lighting",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443428",
+            "categoryNm": "Timber",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443429",
+            "categoryNm": "Other Constructions",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443415",
+            "categoryNm": "Building Material Machinery",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443416",
+            "categoryNm": "Construction Tools",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443417",
+            "categoryNm": "Engineering & Construction Machinery",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443418",
+            "categoryNm": "Flow Measuring Instrument",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443419",
+            "categoryNm": "Garden Tools",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443420",
+            "categoryNm": "Hand Tools",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2443421",
+            "categoryNm": "Landscaping Stone",
+            "upCategoryNo": "2443",
+            "categoryDepth": "3"
+          }
+        ]
+      },
+      {
+        "categoryNo": "2444",
+        "categoryNm": "Safety & Protection Products",
+        "upCategoryNo": "24",
+        "categoryDepth": "2",
+        "children": [
+          {
+            "categoryNo": "2444430",
+            "categoryNm": "Firefighting Supplies",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444431",
+            "categoryNm": "Locks & Keys",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444432",
+            "categoryNm": "Police & Military Supplies",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444433",
+            "categoryNm": "Roadway Safety",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444434",
+            "categoryNm": "Self Defense Supplies",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444435",
+            "categoryNm": "Water Safety Products",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444436",
+            "categoryNm": "Workplace Safety Supplies",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          },
+          {
+            "categoryNo": "2444437",
+            "categoryNm": "Other Security & Protection Products",
+            "upCategoryNo": "2444",
+            "categoryDepth": "3"
+          }
+        ]
+      }
+    ]
+  }
+]

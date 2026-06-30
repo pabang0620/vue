@@ -1,0 +1,986 @@
+[
+  {
+    "natCd": "AF",
+    "natCdNm": "Afghanistan"
+  },
+  {
+    "natCd": "AL",
+    "natCdNm": "Albania"
+  },
+  {
+    "natCd": "DZ",
+    "natCdNm": "Algeria"
+  },
+  {
+    "natCd": "AS",
+    "natCdNm": "American Samoa"
+  },
+  {
+    "natCd": "AD",
+    "natCdNm": "Andorra"
+  },
+  {
+    "natCd": "AO",
+    "natCdNm": "Angola"
+  },
+  {
+    "natCd": "AI",
+    "natCdNm": "Anguilla"
+  },
+  {
+    "natCd": "AQ",
+    "natCdNm": "Antarctica"
+  },
+  {
+    "natCd": "AG",
+    "natCdNm": "Antigua and Barbuda"
+  },
+  {
+    "natCd": "AR",
+    "natCdNm": "Argentina"
+  },
+  {
+    "natCd": "AM",
+    "natCdNm": "Armenia"
+  },
+  {
+    "natCd": "AW",
+    "natCdNm": "Aruba"
+  },
+  {
+    "natCd": "AU",
+    "natCdNm": "Australia"
+  },
+  {
+    "natCd": "AT",
+    "natCdNm": "Austria"
+  },
+  {
+    "natCd": "AZ",
+    "natCdNm": "Azerbaijan"
+  },
+  {
+    "natCd": "BS",
+    "natCdNm": "Bahamas"
+  },
+  {
+    "natCd": "BH",
+    "natCdNm": "Bahrain"
+  },
+  {
+    "natCd": "BD",
+    "natCdNm": "Bangladesh"
+  },
+  {
+    "natCd": "BB",
+    "natCdNm": "Barbados"
+  },
+  {
+    "natCd": "BY",
+    "natCdNm": "Belarus"
+  },
+  {
+    "natCd": "BE",
+    "natCdNm": "Belgium"
+  },
+  {
+    "natCd": "BZ",
+    "natCdNm": "Belize"
+  },
+  {
+    "natCd": "BJ",
+    "natCdNm": "Benin"
+  },
+  {
+    "natCd": "BM",
+    "natCdNm": "Bermuda"
+  },
+  {
+    "natCd": "BT",
+    "natCdNm": "Bhutan"
+  },
+  {
+    "natCd": "BO",
+    "natCdNm": "Bolivia"
+  },
+  {
+    "natCd": "BA",
+    "natCdNm": "Bosnia and Herzegovina"
+  },
+  {
+    "natCd": "BW",
+    "natCdNm": "Botswana"
+  },
+  {
+    "natCd": "BV",
+    "natCdNm": "Bouvet Island"
+  },
+  {
+    "natCd": "BR",
+    "natCdNm": "Brazil"
+  },
+  {
+    "natCd": "IO",
+    "natCdNm": "British Indian Ocean Territory"
+  },
+  {
+    "natCd": "BN",
+    "natCdNm": "Brunei Darussalam"
+  },
+  {
+    "natCd": "BG",
+    "natCdNm": "Bulgaria"
+  },
+  {
+    "natCd": "BF",
+    "natCdNm": "Burkina Faso"
+  },
+  {
+    "natCd": "BI",
+    "natCdNm": "Burundi"
+  },
+  {
+    "natCd": "KH",
+    "natCdNm": "Cambodia"
+  },
+  {
+    "natCd": "CM",
+    "natCdNm": "Cameroon"
+  },
+  {
+    "natCd": "CA",
+    "natCdNm": "Canada"
+  },
+  {
+    "natCd": "CV",
+    "natCdNm": "Cape Verde"
+  },
+  {
+    "natCd": "KY",
+    "natCdNm": "Cayman Islands"
+  },
+  {
+    "natCd": "CF",
+    "natCdNm": "Central African Republic"
+  },
+  {
+    "natCd": "TD",
+    "natCdNm": "Chad"
+  },
+  {
+    "natCd": "CL",
+    "natCdNm": "Chile"
+  },
+  {
+    "natCd": "CN",
+    "natCdNm": "China"
+  },
+  {
+    "natCd": "CX",
+    "natCdNm": "Christmas Island"
+  },
+  {
+    "natCd": "CC",
+    "natCdNm": "Cocos (Keeling) Islands"
+  },
+  {
+    "natCd": "CO",
+    "natCdNm": "Colombia"
+  },
+  {
+    "natCd": "KM",
+    "natCdNm": "Comoros"
+  },
+  {
+    "natCd": "CG",
+    "natCdNm": "Congo"
+  },
+  {
+    "natCd": "CD",
+    "natCdNm": "Congo, The Democratic Republic of the"
+  },
+  {
+    "natCd": "CK",
+    "natCdNm": "Cook Islands"
+  },
+  {
+    "natCd": "CR",
+    "natCdNm": "Costa Rica"
+  },
+  {
+    "natCd": "CI",
+    "natCdNm": "Cote DIvoire"
+  },
+  {
+    "natCd": "HR",
+    "natCdNm": "Croatia"
+  },
+  {
+    "natCd": "CU",
+    "natCdNm": "Cuba"
+  },
+  {
+    "natCd": "CW",
+    "natCdNm": "Curacao"
+  },
+  {
+    "natCd": "CY",
+    "natCdNm": "Cyprus"
+  },
+  {
+    "natCd": "CZ",
+    "natCdNm": "Czech Republic"
+  },
+  {
+    "natCd": "DK",
+    "natCdNm": "Denmark"
+  },
+  {
+    "natCd": "DJ",
+    "natCdNm": "Djibouti"
+  },
+  {
+    "natCd": "DM",
+    "natCdNm": "Dominica"
+  },
+  {
+    "natCd": "DO",
+    "natCdNm": "Dominican Republic"
+  },
+  {
+    "natCd": "TP",
+    "natCdNm": "East Timor"
+  },
+  {
+    "natCd": "EC",
+    "natCdNm": "Ecuador"
+  },
+  {
+    "natCd": "EG",
+    "natCdNm": "Egypt"
+  },
+  {
+    "natCd": "SV",
+    "natCdNm": "El Salvador"
+  },
+  {
+    "natCd": "GQ",
+    "natCdNm": "Equatorial Guinea"
+  },
+  {
+    "natCd": "ER",
+    "natCdNm": "Eritrea"
+  },
+  {
+    "natCd": "EE",
+    "natCdNm": "Estonia"
+  },
+  {
+    "natCd": "ET",
+    "natCdNm": "Ethiopia"
+  },
+  {
+    "natCd": "EU",
+    "natCdNm": "Europe"
+  },
+  {
+    "natCd": "EM",
+    "natCdNm": "European Union"
+  },
+  {
+    "natCd": "FK",
+    "natCdNm": "Falkland Islands (Malvinas)"
+  },
+  {
+    "natCd": "FO",
+    "natCdNm": "Faroe Islands"
+  },
+  {
+    "natCd": "FJ",
+    "natCdNm": "Fiji"
+  },
+  {
+    "natCd": "FI",
+    "natCdNm": "Finland"
+  },
+  {
+    "natCd": "FR",
+    "natCdNm": "France"
+  },
+  {
+    "natCd": "GF",
+    "natCdNm": "French Guiana"
+  },
+  {
+    "natCd": "PF",
+    "natCdNm": "French Polynesia"
+  },
+  {
+    "natCd": "TF",
+    "natCdNm": "French Southern Territories"
+  },
+  {
+    "natCd": "GA",
+    "natCdNm": "Gabon"
+  },
+  {
+    "natCd": "GM",
+    "natCdNm": "Gambia"
+  },
+  {
+    "natCd": "GE",
+    "natCdNm": "Georgia"
+  },
+  {
+    "natCd": "DE",
+    "natCdNm": "Germany"
+  },
+  {
+    "natCd": "GH",
+    "natCdNm": "Ghana"
+  },
+  {
+    "natCd": "GI",
+    "natCdNm": "Gibraltar"
+  },
+  {
+    "natCd": "GR",
+    "natCdNm": "Greece"
+  },
+  {
+    "natCd": "GL",
+    "natCdNm": "Greenland"
+  },
+  {
+    "natCd": "GD",
+    "natCdNm": "Grenada"
+  },
+  {
+    "natCd": "GP",
+    "natCdNm": "Guadeloupe"
+  },
+  {
+    "natCd": "GU",
+    "natCdNm": "Guam"
+  },
+  {
+    "natCd": "GT",
+    "natCdNm": "Guatemala"
+  },
+  {
+    "natCd": "GN",
+    "natCdNm": "Guinea"
+  },
+  {
+    "natCd": "GW",
+    "natCdNm": "Guinea-Bissau"
+  },
+  {
+    "natCd": "GY",
+    "natCdNm": "Guyana"
+  },
+  {
+    "natCd": "HT",
+    "natCdNm": "Haiti"
+  },
+  {
+    "natCd": "HM",
+    "natCdNm": "Heard Island and Mcdonald Islands"
+  },
+  {
+    "natCd": "VA",
+    "natCdNm": "Holy See (Vatican City State)"
+  },
+  {
+    "natCd": "HN",
+    "natCdNm": "Honduras"
+  },
+  {
+    "natCd": "HK",
+    "natCdNm": "Hong Kong"
+  },
+  {
+    "natCd": "HU",
+    "natCdNm": "Hungary"
+  },
+  {
+    "natCd": "IS",
+    "natCdNm": "Iceland"
+  },
+  {
+    "natCd": "IN",
+    "natCdNm": "India"
+  },
+  {
+    "natCd": "ID",
+    "natCdNm": "Indonesia"
+  },
+  {
+    "natCd": "IR",
+    "natCdNm": "Iran, Islamic Republic Of"
+  },
+  {
+    "natCd": "IQ",
+    "natCdNm": "Iraq"
+  },
+  {
+    "natCd": "IE",
+    "natCdNm": "Ireland"
+  },
+  {
+    "natCd": "IL",
+    "natCdNm": "Israel"
+  },
+  {
+    "natCd": "IT",
+    "natCdNm": "Italy"
+  },
+  {
+    "natCd": "JM",
+    "natCdNm": "Jamaica"
+  },
+  {
+    "natCd": "JP",
+    "natCdNm": "Japan"
+  },
+  {
+    "natCd": "JO",
+    "natCdNm": "Jordan"
+  },
+  {
+    "natCd": "KZ",
+    "natCdNm": "Kazakhstan"
+  },
+  {
+    "natCd": "KE",
+    "natCdNm": "Kenya"
+  },
+  {
+    "natCd": "KG",
+    "natCdNm": "Kirghizia"
+  },
+  {
+    "natCd": "KI",
+    "natCdNm": "Kiribati"
+  },
+  {
+    "natCd": "KP",
+    "natCdNm": "Korea, Democratic People Republic of"
+  },
+  {
+    "natCd": "XK",
+    "natCdNm": "Kosovo"
+  },
+  {
+    "natCd": "KW",
+    "natCdNm": "Kuwait"
+  },
+  {
+    "natCd": "LA",
+    "natCdNm": "Lao People Democratic Republic"
+  },
+  {
+    "natCd": "LV",
+    "natCdNm": "Latvia"
+  },
+  {
+    "natCd": "LB",
+    "natCdNm": "Lebanon"
+  },
+  {
+    "natCd": "LS",
+    "natCdNm": "Lesotho"
+  },
+  {
+    "natCd": "LR",
+    "natCdNm": "Liberia"
+  },
+  {
+    "natCd": "LY",
+    "natCdNm": "Libyan Arab Jamahiriya"
+  },
+  {
+    "natCd": "LI",
+    "natCdNm": "Liechtenstein"
+  },
+  {
+    "natCd": "LT",
+    "natCdNm": "Lithuania"
+  },
+  {
+    "natCd": "LU",
+    "natCdNm": "Luxembourg"
+  },
+  {
+    "natCd": "MO",
+    "natCdNm": "Macao"
+  },
+  {
+    "natCd": "MK",
+    "natCdNm": "Macedonia, The Former Yugoslav Republic of"
+  },
+  {
+    "natCd": "MG",
+    "natCdNm": "Madagascar"
+  },
+  {
+    "natCd": "MW",
+    "natCdNm": "Malawi"
+  },
+  {
+    "natCd": "MY",
+    "natCdNm": "Malaysia"
+  },
+  {
+    "natCd": "MV",
+    "natCdNm": "Maldives"
+  },
+  {
+    "natCd": "ML",
+    "natCdNm": "Mali"
+  },
+  {
+    "natCd": "MT",
+    "natCdNm": "Malta"
+  },
+  {
+    "natCd": "MH",
+    "natCdNm": "Marshall Islands"
+  },
+  {
+    "natCd": "MQ",
+    "natCdNm": "Martinique"
+  },
+  {
+    "natCd": "MR",
+    "natCdNm": "Mauritania"
+  },
+  {
+    "natCd": "MU",
+    "natCdNm": "Mauritius"
+  },
+  {
+    "natCd": "YT",
+    "natCdNm": "Mayotte"
+  },
+  {
+    "natCd": "MX",
+    "natCdNm": "Mexico"
+  },
+  {
+    "natCd": "FM",
+    "natCdNm": "Micronesia, Federated States of"
+  },
+  {
+    "natCd": "MD",
+    "natCdNm": "Moldova, Republic of"
+  },
+  {
+    "natCd": "MC",
+    "natCdNm": "Monaco"
+  },
+  {
+    "natCd": "MN",
+    "natCdNm": "Mongolia"
+  },
+  {
+    "natCd": "ME",
+    "natCdNm": "Montenegro"
+  },
+  {
+    "natCd": "MS",
+    "natCdNm": "Montserrat"
+  },
+  {
+    "natCd": "MA",
+    "natCdNm": "Morocco"
+  },
+  {
+    "natCd": "MZ",
+    "natCdNm": "Mozambique"
+  },
+  {
+    "natCd": "MM",
+    "natCdNm": "Myanmar"
+  },
+  {
+    "natCd": "NA",
+    "natCdNm": "Namibia"
+  },
+  {
+    "natCd": "NR",
+    "natCdNm": "Nauru"
+  },
+  {
+    "natCd": "NP",
+    "natCdNm": "Nepal"
+  },
+  {
+    "natCd": "NL",
+    "natCdNm": "Netherlands"
+  },
+  {
+    "natCd": "AN",
+    "natCdNm": "Netherlands Antilles"
+  },
+  {
+    "natCd": "NC",
+    "natCdNm": "New Caledonia"
+  },
+  {
+    "natCd": "NZ",
+    "natCdNm": "New Zealand"
+  },
+  {
+    "natCd": "NI",
+    "natCdNm": "Nicaragua"
+  },
+  {
+    "natCd": "NE",
+    "natCdNm": "Niger"
+  },
+  {
+    "natCd": "NG",
+    "natCdNm": "Nigeria"
+  },
+  {
+    "natCd": "NU",
+    "natCdNm": "Niue"
+  },
+  {
+    "natCd": "NF",
+    "natCdNm": "Norfolk Island"
+  },
+  {
+    "natCd": "MP",
+    "natCdNm": "Northern Mariana Islands"
+  },
+  {
+    "natCd": "NO",
+    "natCdNm": "Norway"
+  },
+  {
+    "natCd": "OM",
+    "natCdNm": "Oman"
+  },
+  {
+    "natCd": "PK",
+    "natCdNm": "Pakistan"
+  },
+  {
+    "natCd": "PW",
+    "natCdNm": "Palau"
+  },
+  {
+    "natCd": "PS",
+    "natCdNm": "Palestinian Territory, Occupied"
+  },
+  {
+    "natCd": "PA",
+    "natCdNm": "Panama"
+  },
+  {
+    "natCd": "PG",
+    "natCdNm": "Papua New Guinea"
+  },
+  {
+    "natCd": "PY",
+    "natCdNm": "Paraguay"
+  },
+  {
+    "natCd": "PE",
+    "natCdNm": "Peru"
+  },
+  {
+    "natCd": "PH",
+    "natCdNm": "Philippines"
+  },
+  {
+    "natCd": "PN",
+    "natCdNm": "Pitcairn"
+  },
+  {
+    "natCd": "PL",
+    "natCdNm": "Poland"
+  },
+  {
+    "natCd": "PT",
+    "natCdNm": "Portugal"
+  },
+  {
+    "natCd": "PR",
+    "natCdNm": "Puerto Rico"
+  },
+  {
+    "natCd": "QA",
+    "natCdNm": "Qatar"
+  },
+  {
+    "natCd": "RW",
+    "natCdNm": "RWANDA"
+  },
+  {
+    "natCd": "KR",
+    "natCdNm": "Republic Of Korea"
+  },
+  {
+    "natCd": "RE",
+    "natCdNm": "Reunion"
+  },
+  {
+    "natCd": "RO",
+    "natCdNm": "Romania"
+  },
+  {
+    "natCd": "RU",
+    "natCdNm": "Russian Federation"
+  },
+  {
+    "natCd": "SH",
+    "natCdNm": "Saint Helena"
+  },
+  {
+    "natCd": "KN",
+    "natCdNm": "Saint Kitts and Nevis"
+  },
+  {
+    "natCd": "LC",
+    "natCdNm": "Saint Lucia"
+  },
+  {
+    "natCd": "PM",
+    "natCdNm": "Saint Pierre and Miquelon"
+  },
+  {
+    "natCd": "VC",
+    "natCdNm": "Saint Vincent and the Grenadines"
+  },
+  {
+    "natCd": "WS",
+    "natCdNm": "Samoa"
+  },
+  {
+    "natCd": "SM",
+    "natCdNm": "San Marino"
+  },
+  {
+    "natCd": "ST",
+    "natCdNm": "Sao Tome and Principe"
+  },
+  {
+    "natCd": "SA",
+    "natCdNm": "Saudi Arabia"
+  },
+  {
+    "natCd": "SN",
+    "natCdNm": "Senegal"
+  },
+  {
+    "natCd": "RS",
+    "natCdNm": "Serbia"
+  },
+  {
+    "natCd": "SC",
+    "natCdNm": "Seychelles"
+  },
+  {
+    "natCd": "SL",
+    "natCdNm": "Sierra Leone"
+  },
+  {
+    "natCd": "SG",
+    "natCdNm": "Singapore"
+  },
+  {
+    "natCd": "SK",
+    "natCdNm": "Slovakia"
+  },
+  {
+    "natCd": "SI",
+    "natCdNm": "Slovenia"
+  },
+  {
+    "natCd": "SB",
+    "natCdNm": "Solomon Islands"
+  },
+  {
+    "natCd": "SO",
+    "natCdNm": "Somalia"
+  },
+  {
+    "natCd": "ZA",
+    "natCdNm": "South Africa"
+  },
+  {
+    "natCd": "GS",
+    "natCdNm": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "natCd": "ES",
+    "natCdNm": "Spain"
+  },
+  {
+    "natCd": "LK",
+    "natCdNm": "Sri Lanka"
+  },
+  {
+    "natCd": "SD",
+    "natCdNm": "Sudan"
+  },
+  {
+    "natCd": "SR",
+    "natCdNm": "Suriname"
+  },
+  {
+    "natCd": "SJ",
+    "natCdNm": "Svalbard and Jan Mayen"
+  },
+  {
+    "natCd": "SZ",
+    "natCdNm": "Swaziland"
+  },
+  {
+    "natCd": "SE",
+    "natCdNm": "Sweden"
+  },
+  {
+    "natCd": "CH",
+    "natCdNm": "Switzerland"
+  },
+  {
+    "natCd": "SY",
+    "natCdNm": "Syrian Arab Republic"
+  },
+  {
+    "natCd": "TW",
+    "natCdNm": "Taiwan, Province of China"
+  },
+  {
+    "natCd": "TJ",
+    "natCdNm": "Tajikistan"
+  },
+  {
+    "natCd": "TZ",
+    "natCdNm": "Tanzania, United Republic of"
+  },
+  {
+    "natCd": "TH",
+    "natCdNm": "Thailand"
+  },
+  {
+    "natCd": "TG",
+    "natCdNm": "Togo"
+  },
+  {
+    "natCd": "TK",
+    "natCdNm": "Tokelau"
+  },
+  {
+    "natCd": "TO",
+    "natCdNm": "Tonga"
+  },
+  {
+    "natCd": "TT",
+    "natCdNm": "Trinidad and Tobago"
+  },
+  {
+    "natCd": "TN",
+    "natCdNm": "Tunisia"
+  },
+  {
+    "natCd": "TR",
+    "natCdNm": "Turkey"
+  },
+  {
+    "natCd": "XT",
+    "natCdNm": "Turkish Rep N Cyprus"
+  },
+  {
+    "natCd": "TM",
+    "natCdNm": "Turkmenistan"
+  },
+  {
+    "natCd": "TC",
+    "natCdNm": "Turks and Caicos Islands"
+  },
+  {
+    "natCd": "TV",
+    "natCdNm": "Tuvalu"
+  },
+  {
+    "natCd": "UG",
+    "natCdNm": "Uganda"
+  },
+  {
+    "natCd": "UA",
+    "natCdNm": "Ukraine"
+  },
+  {
+    "natCd": "AE",
+    "natCdNm": "United Arab Emirates"
+  },
+  {
+    "natCd": "GB",
+    "natCdNm": "United Kingdom"
+  },
+  {
+    "natCd": "US",
+    "natCdNm": "United States"
+  },
+  {
+    "natCd": "UM",
+    "natCdNm": "United States Minor Outlying Islands"
+  },
+  {
+    "natCd": "UY",
+    "natCdNm": "Uruguay"
+  },
+  {
+    "natCd": "UZ",
+    "natCdNm": "Uzbekistan"
+  },
+  {
+    "natCd": "VU",
+    "natCdNm": "Vanuatu"
+  },
+  {
+    "natCd": "VE",
+    "natCdNm": "Venezuela"
+  },
+  {
+    "natCd": "VN",
+    "natCdNm": "Viet Nam"
+  },
+  {
+    "natCd": "VG",
+    "natCdNm": "Virgin Islands, British"
+  },
+  {
+    "natCd": "VI",
+    "natCdNm": "Virgin Islands, U.S."
+  },
+  {
+    "natCd": "WF",
+    "natCdNm": "Wallis and Futuna"
+  },
+  {
+    "natCd": "EH",
+    "natCdNm": "Western Sahara"
+  },
+  {
+    "natCd": "YE",
+    "natCdNm": "Yemen"
+  },
+  {
+    "natCd": "YU",
+    "natCdNm": "Yugoslavia"
+  },
+  {
+    "natCd": "ZM",
+    "natCdNm": "Zambia"
+  },
+  {
+    "natCd": "ZW",
+    "natCdNm": "Zimbabwe"
+  }
+]

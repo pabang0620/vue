@@ -1,0 +1,572 @@
+[
+  {
+    "keywordNo": "10034734",
+    "keywordEn": "M&A",
+    "keywordKr": "M&A",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10034753",
+    "keywordEn": "M&a",
+    "keywordKr": "인수합병",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10044631",
+    "keywordEn": "A/V Design",
+    "keywordKr": "A/V 디자인",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10022010",
+    "keywordEn": "A/V Industry",
+    "keywordKr": "A/V 산업",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10110343",
+    "keywordEn": "M&a Advisory",
+    "keywordKr": "M&a 자문",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10034100",
+    "keywordEn": "A/V Solution",
+    "keywordKr": "A/V 솔루션",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10113904",
+    "keywordEn": "A/V Technology",
+    "keywordKr": "A/V 기술",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10106690",
+    "keywordEn": "M&A Consulting",
+    "keywordKr": "M&A 컨설팅",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10064154",
+    "keywordEn": "M&A · Legal Service",
+    "keywordKr": "M&A · 법률 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10065476",
+    "keywordEn": "H.v.a.c. · R",
+    "keywordKr": "냉난방 · 냉동",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10047466",
+    "keywordEn": "A.i. Services",
+    "keywordKr": "인공지능 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10080611",
+    "keywordEn": "Vertical Software As A Service",
+    "keywordKr": "수직 소프트웨어 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10074138",
+    "keywordEn": "MRO  B2B",
+    "keywordKr": "MRO B2B",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10111599",
+    "keywordEn": "B2B Sale",
+    "keywordKr": "B2B 판매",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10068207",
+    "keywordEn": "B2B · SaaS",
+    "keywordKr": "B2B · SaaS",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10071580",
+    "keywordEn": "B2B Media",
+    "keywordKr": "B2B 미디어",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10036052",
+    "keywordEn": "B2B Finance",
+    "keywordKr": "B2B 금융",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10092578",
+    "keywordEn": "B2B Agency",
+    "keywordKr": "B2B 에이전시",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10026115",
+    "keywordEn": "B2B Delivery",
+    "keywordKr": "B2B 배송",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10028008",
+    "keywordEn": "B2B Service",
+    "keywordKr": "B2B 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10033480",
+    "keywordEn": "B2B Sourcing",
+    "keywordKr": "B2B 소싱",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10078292",
+    "keywordEn": "B2B Commerce",
+    "keywordKr": "B2B 상거래",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10021494",
+    "keywordEn": "B2B Solution",
+    "keywordKr": "B2B 솔루션",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10011835",
+    "keywordEn": "B2B Platform",
+    "keywordKr": "B2B 플랫폼",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10016969",
+    "keywordEn": "B2B Publishing",
+    "keywordKr": "B2B 출판",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10006361",
+    "keywordEn": "B2B Marketing",
+    "keywordKr": "B2B 마케팅",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10040675",
+    "keywordEn": "B2B Integration",
+    "keywordKr": "B2B 통합",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10008506",
+    "keywordEn": "B2B Chemistry",
+    "keywordKr": "B2B 화학제품",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10084653",
+    "keywordEn": "B2B Consulting",
+    "keywordKr": "B2B 컨설팅",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10044511",
+    "keywordEn": "B2B Exhibition",
+    "keywordKr": "B2B 전시회",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10117780",
+    "keywordEn": "B2B Ticket Trade",
+    "keywordKr": "B2B 티켓 거래",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10001184",
+    "keywordEn": "B2B Distribution",
+    "keywordKr": "B2B 유통",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10070178",
+    "keywordEn": "3C Product",
+    "keywordKr": "3C 제품",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10017008",
+    "keywordEn": "3C Industry",
+    "keywordKr": "3C 산업",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10069844",
+    "keywordEn": "3C Accessory",
+    "keywordKr": "3C 액세서리",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10035909",
+    "keywordEn": "B2C Platform",
+    "keywordKr": "B2C 플랫폼",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10117897",
+    "keywordEn": "C V2X Technology",
+    "keywordKr": "C V2X 기술",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10016827",
+    "keywordEn": "Airsoft · R·c Product",
+    "keywordKr": "에어소프트 · R·c 제품",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10038137",
+    "keywordEn": "R·c Hobby",
+    "keywordKr": "원격 조종 취미",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10031350",
+    "keywordEn": "3C Digital Accessory",
+    "keywordKr": "3C 디지털 액세서리",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10061867",
+    "keywordEn": "R/c Products",
+    "keywordKr": "원격 제어 제품",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10037013",
+    "keywordEn": "R·c Flying Industry",
+    "keywordKr": "원격 조종 비행 산업",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10069797",
+    "keywordEn": "D.i.y.",
+    "keywordKr": "Diy",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10086050",
+    "keywordEn": "3d Cinema",
+    "keywordKr": "3d 영화",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10019766",
+    "keywordEn": "3D Optics",
+    "keywordKr": "3D 광학",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10004445",
+    "keywordEn": "3D Design",
+    "keywordKr": "3D 디자인",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10114883",
+    "keywordEn": "3D Imaging",
+    "keywordKr": "3D 이미지",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10003448",
+    "keywordEn": "3D Service",
+    "keywordKr": "3D 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10062329",
+    "keywordEn": "3D Industry",
+    "keywordKr": "3D 산업",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10077611",
+    "keywordEn": "3D Graphic",
+    "keywordKr": "3D 그래픽",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10034215",
+    "keywordEn": "3D Scanning",
+    "keywordKr": "3D 스캐닝",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10057328",
+    "keywordEn": "3D Printing",
+    "keywordKr": "3D 프린팅",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10106535",
+    "keywordEn": "3d Scanning",
+    "keywordKr": "3d 스캐닝",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10021748",
+    "keywordEn": "3D Modeling",
+    "keywordKr": "3D 모델링",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10114065",
+    "keywordEn": "3D Equipment",
+    "keywordKr": "3D 장비",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10046925",
+    "keywordEn": "K&D Business",
+    "keywordKr": "K&D 비즈니스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10054429",
+    "keywordEn": "3D Technology",
+    "keywordKr": "3D 기술",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10062885",
+    "keywordEn": "3D Rendering",
+    "keywordKr": "3D 렌더링",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10067014",
+    "keywordEn": "3D Manufacturing",
+    "keywordKr": "3D 제조",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10087485",
+    "keywordEn": "3D Photography",
+    "keywordKr": "3D 사진 촬영",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10061295",
+    "keywordEn": "3D Visualization",
+    "keywordKr": "3D 시각화",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10106752",
+    "keywordEn": "Digital 3D Video",
+    "keywordKr": "디지털 3D 비디오",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10036582",
+    "keywordEn": "E Card",
+    "keywordKr": "전자 카드",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10073133",
+    "keywordEn": "E Mental Health",
+    "keywordKr": "E 정신 건강",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10018500",
+    "keywordEn": "E Bike",
+    "keywordKr": "전기 자전거",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10061667",
+    "keywordEn": "E House Solution",
+    "keywordKr": "E 하우스 솔루션",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10074090",
+    "keywordEn": "E Health",
+    "keywordKr": "전자 건강",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10054436",
+    "keywordEn": "Esports",
+    "keywordKr": "E스포츠",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10094684",
+    "keywordEn": "E Learning / IT Service",
+    "keywordKr": "E 러닝 / IT 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10093956",
+    "keywordEn": "E Tourism",
+    "keywordKr": "전자 관광",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10051256",
+    "keywordEn": "E Liquid",
+    "keywordKr": "전자 담배 액상",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10092441",
+    "keywordEn": "E Bicycle",
+    "keywordKr": "전기자전거",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10029005",
+    "keywordEn": "E Learning",
+    "keywordKr": "전자 교육",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10003796",
+    "keywordEn": "E Scooter",
+    "keywordKr": "전동 스쿠터",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10095672",
+    "keywordEn": "E Service",
+    "keywordKr": "전자 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10039644",
+    "keywordEn": "E Grocery",
+    "keywordKr": "전자식 식료품",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10060628",
+    "keywordEn": "E Invoicing",
+    "keywordKr": "전자 송장",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10004834",
+    "keywordEn": "E Government · E Commerce",
+    "keywordKr": "전자 정부 · 전자 상거래",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10024629",
+    "keywordEn": "E Marketing",
+    "keywordKr": "전자 마케팅",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10027213",
+    "keywordEn": "E Hailing",
+    "keywordKr": "전자 호출 서비스",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10095651",
+    "keywordEn": "E Fulfilment",
+    "keywordKr": "전자 물류",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10028644",
+    "keywordEn": "E Mobility",
+    "keywordKr": "전기 모빌리티",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10050035",
+    "keywordEn": "F·b · Nightlife",
+    "keywordKr": "음식 · 유흥",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10113635",
+    "keywordEn": "5G Industry",
+    "keywordKr": "5G 산업",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10010146",
+    "keywordEn": "5G Communication",
+    "keywordKr": "5G 통신",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10103096",
+    "keywordEn": "Hobby · D.i.y.",
+    "keywordKr": "취미 · DIY",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10108923",
+    "keywordEn": "M&IT",
+    "keywordKr": "M&IT",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10118239",
+    "keywordEn": "M2M Technology",
+    "keywordKr": "M2M기술",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10090411",
+    "keywordEn": "M?ori Weaving",
+    "keywordKr": "마오리 직조",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10038787",
+    "keywordEn": "M&e Sector",
+    "keywordKr": "기계 및 전기 분야",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10109316",
+    "keywordEn": "M?ori Development",
+    "keywordKr": "마오리 개발",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10084234",
+    "keywordEn": "M&e Solutions",
+    "keywordKr": "기계 및 전기 솔루션",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10102442",
+    "keywordEn": "M&e Consultancy",
+    "keywordKr": "기계 및 전기 컨설팅",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10099771",
+    "keywordEn": "Children's Hair Salon",
+    "keywordKr": "아동 미용실",
+    "keywordGb": "CA"
+  },
+  {
+    "keywordNo": "10043052",
+    "keywordEn": "Women's Rights Advocacy",
+    "keywordKr": "여성 권익",
+    "keywordGb": "CA"
+  }
+]

@@ -1,0 +1,167 @@
+/* ── 메인 콘텐츠 ── */
+.page-content { padding: 44px 0 80px; background: #fff; }
+.page-title-area { margin-bottom: 32px; display: flex; align-items: baseline; gap: 20px; flex-wrap: wrap; position: sticky; top: 169px; z-index: 89; background: transparent; padding: 0 0 8px; }
+.page-title-area h2 { font-size: 32px; font-weight: 800; color: #1A2A40; flex-shrink: 0; }
+.page-title-area p { font-size: 16px; color: var(--text-mid); line-height: 1.75; }
+
+/* ── 상태 뱃지 ── */
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 12px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 700;
+  vertical-align: middle;
+}
+.status-badge.complete  { background: #E8F5E9; color: #2E7D32; }
+.status-badge.review    { background: #FFF3E0; color: #E65100; }
+.status-badge.approved  { background: #E3F2FD; color: #1565C0; }
+.status-badge.rejected  { background: #FFEBEE; color: #C62828; }
+
+/* ── 상세 폼 (sub-apply.html 동일 스타일) ── */
+.detail-form-wrap {}
+
+.form-title-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-bottom: 14px;
+  border-bottom: 2px solid #222;
+  margin-bottom: 0;
+  gap: 12px;
+}
+.form-title-label {
+  font-size: 22px;
+  font-weight: 800;
+  color: #1A2A40;
+}
+.form-title-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  color: var(--text-mid);
+}
+
+.form-section-title {
+  font-size: 22px;
+  font-weight: 800;
+  color: #1A2A40;
+  margin-top: 80px;
+  margin-bottom: 0;
+  padding-bottom: 14px;
+  border-bottom: 2px solid #222;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  min-height: 84px;
+}
+.form-label {
+  width: 160px;
+  flex-shrink: 0;
+  padding: 30px 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+}
+.form-field {
+  flex: 1;
+  padding: 26px 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  border-bottom: 1px solid #e0e0e0;
+  font-size: 16px;
+  color: var(--text);
+  line-height: 1.7;
+}
+.form-field.multiline { align-items: flex-start; padding-top: 28px; padding-bottom: 28px; }
+.form-row--top { align-items: flex-start; }
+.form-label--top { padding-top: 30px; }
+.form-field--last { border-bottom: none; }
+
+/* 사업명 뱃지 (마케팅 발송 페이지 cat-chip 동일 스타일) */
+.biz-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #1B8A6B;
+  color: #fff;
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+/* ── 하단 버튼 ── */
+.detail-btn-area {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 48px;
+  padding-top: 32px;
+  border-top: 1px solid var(--gray-2);
+}
+.btn-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 48px;
+  padding: 0 28px;
+  border: 1px solid var(--gray-3);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--text-mid);
+  font-size: 15px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .2s;
+}
+.btn-back:hover { background: var(--gray-1); border-color: #999; color: var(--text); }
+
+/* ── 페이지 타이틀 스티키 전환 ── */
+.page-title-area, .content-header { transition: background .2s; }
+.page-title-area.is-sticky, .content-header.is-sticky { background: rgba(255,255,255,0.78); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+.page-title-area::after, .content-header::after { content: ''; position: absolute; left: 50%; transform: translateX(-50%); width: 100vw; top: 0; bottom: 0; z-index: -1; box-shadow: 0 8px 8px -8px rgba(0,0,0,.12); opacity: 0; transition: opacity .2s; pointer-events: none; }
+.page-title-area.is-sticky::after, .content-header.is-sticky::after { opacity: 1; }
+
+/* ── 반응형 ── */
+@media (max-width: 768px) {
+  /* 페이지 타이틀 */
+  .page-title-area { position: static; flex-direction: column; gap: 6px; }
+  .page-title-area h2 { font-size: 24px; }
+
+  /* 폼 타이틀 바 */
+  .form-title-bar { flex-wrap: wrap; gap: 8px; }
+  .form-title-meta { font-size: 13px; gap: 8px; }
+
+  /* 폼 행 — 라벨·필드 세로 배치 */
+  .form-row { flex-direction: column; align-items: flex-start; min-height: auto; padding: 16px 0; }
+  .form-label { width: 100%; padding: 0 0 8px 0; font-size: 15px; }
+  .form-field { width: 100%; padding: 0; padding-bottom: 16px; font-size: 15px; border-bottom: 1px solid #e0e0e0; }
+  .form-field.multiline { padding-top: 0; padding-bottom: 16px; }
+  .form-label--top { padding-top: 0; }
+  .form-field--last { border-bottom: none; }
+
+  /* 추가사항 섹션 타이틀 */
+  .form-section-title { font-size: 18px; margin-top: 40px; }
+
+  /* 사업명 뱃지 */
+  .biz-chip { font-size: 13px; padding: 5px 12px; }
+
+  /* 하단 버튼 */
+  .detail-btn-area { margin-top: 32px; padding-top: 24px; }
+  .btn-back { height: 44px; font-size: 14px; padding: 0 22px; width: 100%; justify-content: center; }
+}
+
+@media (max-width: 480px) {
+  .page-content { padding: 24px 0 48px; }
+  .form-section-title { font-size: 16px; margin-top: 32px; }
+  .biz-chip { font-size: 12px; padding: 4px 10px; }
+  .form-title-meta { font-size: 12px; }
+}

@@ -1,0 +1,238 @@
+/* ── 메인 콘텐츠 ── */
+.page-content { padding: 44px 0 80px; background: #fff; }
+.page-title-area { margin-bottom: 32px; display: flex; align-items: baseline; gap: 20px; flex-wrap: wrap; position: sticky; top: 169px; z-index: 89; background: transparent; padding: 0 0 8px; }
+.page-title-area h2 { font-size: 32px; font-weight: 800; color: #1A2A40; flex-shrink: 0; }
+.page-title-area p { font-size: 16px; color: var(--text-mid); line-height: 1.75; }
+
+/* ── 검색 패널 ── */
+.search-panel {
+  padding: 28px 0;
+  margin-bottom: 40px;
+}
+.search-row:first-child {
+  border-top: 2px solid #222;
+}
+.search-grid {
+  display: flex;
+  flex-direction: column;
+}
+.search-row {
+  display: flex;
+  align-items: center;
+}
+.search-label {
+  width: 130px;
+  flex-shrink: 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: #333;
+  padding: 22px 20px;
+}
+.search-field {
+  flex: 1;
+  padding: 22px 20px 22px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 1px solid #e0e0e0;
+}
+.search-row:last-child .search-field {
+  border-bottom: none;
+}
+.search-input {
+  height: 38px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  padding: 0 10px;
+  font-size: 16px;
+  font-family: inherit;
+  color: var(--text);
+  background: #fff;
+  outline: none;
+  transition: border-color .2s;
+  width: 100%;
+}
+.search-input:focus { border-color: #888; }
+.search-input::placeholder { color: #bbb; }
+.date-range {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.date-range .search-input { width: 160px; flex-shrink: 0; }
+.date-sep { font-size: 16px; color: #888; flex-shrink: 0; }
+.search-btn-area {
+  margin-top: 24px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+.btn-search {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 36px;
+  background: #1A2A40;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background .2s;
+}
+.btn-search:hover { background: #0D1E3A; }
+.btn-reset {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 28px;
+  background: #fff;
+  color: #555;
+  font-size: 16px;
+  font-weight: 600;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background .2s;
+}
+.btn-reset:hover { background: #f5f5f5; }
+
+/* ── 결과 영역 ── */
+.result-area { margin-top: 8px; }
+.result-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+.result-count {
+  font-size: 16px;
+  color: #333;
+  font-weight: 500;
+}
+.result-count strong { color: var(--blue); font-weight: 800; }
+
+/* ── 결과 테이블 ── */
+.result-table-wrap { overflow-x: auto; }
+.result-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+.result-table thead tr {
+  background: none;
+  color: #1A2A40;
+}
+.result-table thead {
+  border-top: 2px solid #222;
+  border-bottom: 1px solid #aaa;
+}
+.result-table th {
+  padding: 14px 16px;
+  font-size: 15px;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+}
+.result-table tbody tr {
+  border-bottom: 1px solid #e8e8e8;
+  transition: background .15s;
+}
+.result-table tbody tr:hover { background: #f5f8fc; }
+.result-table td {
+  padding: 16px 16px;
+  text-align: center;
+  color: #333;
+  white-space: nowrap;
+}
+.result-table td.left { text-align: left; }
+
+/* 빈 결과 */
+.empty-result {
+  padding: 80px 0;
+  text-align: center;
+  color: #aaa;
+}
+.empty-result i { font-size: 48px; margin-bottom: 16px; display: block; }
+.empty-result p { font-size: 16px; }
+
+/* ── 페이지네이션 ── */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  margin-top: 32px;
+}
+.page-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  background: #fff;
+  color: #555;
+  font-size: 14px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: all .15s;
+  font-weight: 500;
+}
+.page-btn:hover { border-color: #1A2A40; color: #1A2A40; }
+.page-btn.active { background: #1A2A40; border-color: #1A2A40; color: #fff; font-weight: 700; }
+.page-btn.arrow { color: #888; }
+
+/* ── 스티키 전환 ── */
+.page-title-area, .content-header { transition: background .2s; }
+.page-title-area.is-sticky, .content-header.is-sticky { background: rgba(255,255,255,0.78); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+.page-title-area::after, .content-header::after { content: ''; position: absolute; left: 50%; transform: translateX(-50%); width: 100vw; top: 0; bottom: 0; z-index: -1; box-shadow: 0 8px 8px -8px rgba(0,0,0,.12); opacity: 0; transition: opacity .2s; pointer-events: none; }
+.page-title-area.is-sticky::after, .content-header.is-sticky::after { opacity: 1; }
+
+@media (max-width: 768px) {
+  /* 페이지 타이틀 */
+  .page-title-area { position: static; flex-direction: column; gap: 6px; }
+  .page-title-area h2 { font-size: 24px; }
+
+  /* 검색 패널: 세로 스택 */
+  .search-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .search-label {
+    width: 100%;
+    padding: 16px 0 8px 0;
+    font-size: 15px;
+  }
+  .search-field {
+    width: 100%;
+    padding: 0 0 16px 0;
+  }
+  .search-row:first-child { border-top: 2px solid #222; }
+  .search-row:first-child .search-label { padding-top: 16px; }
+
+  /* 날짜 범위 */
+  .date-range { flex-wrap: wrap; width: 100%; }
+  .date-range .search-input { width: 100%; flex-shrink: 1; }
+
+  /* 검색 버튼 */
+  .search-btn-area { flex-direction: column; }
+  .btn-search, .btn-reset { width: 100%; justify-content: center; }
+
+  /* 결과 테이블 */
+  .result-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .result-table { min-width: 600px; font-size: 14px; }
+  .result-table th, .result-table td { padding: 10px 10px; }
+}
+
+@media (max-width: 480px) {
+  .page-content { padding: 24px 0 48px; }
+  .search-panel { padding: 0; }
+}

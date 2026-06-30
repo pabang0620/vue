@@ -1,0 +1,23 @@
+:root {
+  --blue: #1A6FD8;
+  --blue-l: #E8F1FD;
+  --blue-d: #0F4AA3;
+  --orange: #F57C1E;
+  --orange-l: #FEF2E6;
+  --green: #2DAA6A;
+  --green-l: #E6F7EE;
+  --gray-1: #F8FAFB;
+  --gray-2: #EFF2F5;
+  --gray-3: #C9D2DC;
+  --gray-4: #8997A8;
+  --dark: #1B2535;
+  --text: #2C3A4A;
+  --r: 6px;
+  --rL: 10px;
+  --shadow: 0 4px 24px rgba(26,111,216,.10);
+  --trans: .25s ease;
+  --slate-mid: #3D5A8A;
+  --text-mid: #555555;
+  --text-light: #888888;
+}
+html { scroll-behavior: smooth; }
