@@ -4,13 +4,18 @@
    overflow-x: clip은 스크롤 컨테이너를 만들지 않아 position:sticky에 영향 없이 넘침만 차단한다. */
 html { overflow-x: clip; }
 body { font-family: 'Pretendard', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
-  font-size: 16px; background: #fff; color: var(--text); line-height: 1.5; }
+  font-size: 16px; background: #fff; color: var(--text); line-height: 1.5; min-width: 360px; }
 a { text-decoration: none; color: inherit; }
 img { display: block; }
 
 /* ── 공통 레이아웃 ── */
-.wrap { width: calc(100% - 539px); margin: 0 auto; }
-body .loc-inner { width: calc(100% - 539px); }
+.wrap { width: min(1280px, calc(100% - 40px)); margin: 0 auto; }
+/* body .loc-inner 기본 규칙 삭제 — 페이지 CSS 원본 .loc-inner가 모바일에서 살아나도록 */
+/* 데스크탑(1280px+)에서만 좌우 269.5px 여백 적용 */
+@media (min-width: 1280px) {
+  .wrap { width: calc(100% - 539px); }
+  body .loc-inner { width: calc(100% - 539px); }
+}
 body .loc-select { font-weight: 400; }
 /* 국가 선택 드롭다운(.cms-panel)이 카드 하단을 넘어 펼쳐질 때
    .search-card의 overflow:hidden에 잘리는 문제 — 드롭다운이 열린 동안만 클리핑 해제 */

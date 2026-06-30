@@ -535,6 +535,8 @@ input[type="file"] { display: none; }
 
 /* ── 반응형 ── */
 @media (max-width: 768px) {
+  body { min-width: 360px; }
+
   /* 배너 */
   .page-banner { padding: 40px 0; }
   .banner-title { font-size: 32px; padding-bottom: 2.5rem; }

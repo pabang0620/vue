@@ -197,6 +197,23 @@
 .page-title-area.is-sticky::after, .content-header.is-sticky::after { opacity: 1; }
 
 @media (max-width: 768px) {
+  body { min-width: 360px; }
+
+  /* 배너 */
+  .page-banner { padding: 40px 0; }
+  .banner-title { font-size: 32px; padding-bottom: 2.5rem; }
+  .banner-sub { font-size: 15px; max-width: 260px; margin: 0 auto; line-height: 1.7; }
+
+  /* 브레드크럼 */
+  .loc-bar { padding: 0; position: sticky; top: 66px; z-index: 90; background: #fff; border-bottom: 1px solid #e0e0e0; box-shadow: none; }
+  .loc-inner { width: 100%; margin: 0; padding: 0; }
+  .loc-path > li:first-child { display: none; }
+  .loc-path { width: 100%; }
+  .loc-path > li { flex: 1; border: none; }
+  .loc-path > li + li { border-left: 1px solid #ccc; }
+  .loc-btn { width: 100%; height: 44px; font-size: 14px; padding: 0 12px; justify-content: space-between; }
+  .loc-select { width: 100%; height: 44px; font-size: 14px; padding: 0 12px; }
+
   /* 페이지 타이틀 */
   .page-title-area { position: static; flex-direction: column; gap: 6px; }
   .page-title-area h2 { font-size: 24px; }
@@ -233,6 +250,7 @@
 }
 
 @media (max-width: 480px) {
+  .banner-title { font-size: 26px; }
   .page-content { padding: 24px 0 48px; }
   .search-panel { padding: 0; }
 }
