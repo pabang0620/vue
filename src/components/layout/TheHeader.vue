@@ -61,7 +61,7 @@ onUnmounted(() => {
   <div class="mobile-nav" :class="{ open: mobileNavOpen }">
     <ul>
       <li><RouterLink to="/bm/big-data" @click="closeMobileNav">빅바이어 마케팅</RouterLink></li>
-      <li><a href="#" @click="closeMobileNav">공지사항</a></li>
+      <li><RouterLink to="/apply" @click="closeMobileNav">사업 참가신청</RouterLink></li>
     </ul>
     <div class="m-util">
       <a href="#" class="m-login" @click="closeMobileNav">로그인</a>
