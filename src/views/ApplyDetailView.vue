@@ -117,6 +117,11 @@ function goBack() {
         <p>사업 참가 신청 내역의 상세 정보를 확인합니다.</p>
       </div>
 
+      <div class="change-notice">
+        <i class="fa-solid fa-circle-info"></i>
+        <span>항목들이 변경될 수 있습니다. 참고 부탁드립니다.</span>
+      </div>
+
       <!-- 상세 폼 -->
       <div class="detail-form-wrap">
 

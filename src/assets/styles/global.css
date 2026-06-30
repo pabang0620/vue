@@ -29,6 +29,23 @@ body .loc-select { font-weight: 400; }
 .tag { display: inline-block; background: var(--blue-l); color: var(--blue);
   font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 20px;
   letter-spacing: .05em; margin-bottom: 12px; }
+
+/* 항목 변경 안내 배너 — 주황 계열로 눈에 띄게 */
+.change-notice {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--orange-l);
+  color: var(--orange);
+  border: 1px solid var(--orange);
+  border-radius: 8px;
+  padding: 14px 18px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+.change-notice i { font-size: 18px; flex-shrink: 0; }
+
 section { padding: 80px 0; }
 
 /* ── 사이드 네비게이션 ── */

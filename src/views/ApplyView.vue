@@ -108,6 +108,11 @@ function handleSubmit() {
         <p>아래 양식을 작성하여 사업 참가를 신청해 주세요. 담당자 확인 후 연락드립니다.</p>
       </div>
 
+      <div class="change-notice">
+        <i class="fa-solid fa-circle-info"></i>
+        <span>항목들이 변경될 예정입니다. 참고 부탁드립니다.</span>
+      </div>
+
       <div class="apply-form-wrap">
 
         <!-- 폼 상단 타이틀 -->
