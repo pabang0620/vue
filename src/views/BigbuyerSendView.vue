@@ -40,7 +40,7 @@ const locItems = [
   {
     label: '빅바이어마케팅',
     options: [
-      { to: '/bigbuyer/finder', label: '빅바이어마케팅' },
+      { to: '/bm/big-data', label: '빅바이어마케팅' },
       { to: '/apply', label: '사업 참가신청' },
     ],
     current: '빅바이어마케팅',
@@ -48,8 +48,8 @@ const locItems = [
   {
     label: '마케팅 메시지 발송',
     options: [
-      { to: '/bigbuyer/finder', label: '빅데이터 바이어 발굴' },
-      { to: '/bigbuyer/send', label: '마케팅 메시지 발송' },
+      { to: '/bm/big-data', label: '빅데이터 바이어 발굴' },
+      { to: '/bm/push', label: '마케팅 메시지 발송' },
       { to: '/bigbuyer/history', label: '임시저장내역' },
     ],
     current: '마케팅 메시지 발송',

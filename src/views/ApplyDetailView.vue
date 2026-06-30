@@ -46,7 +46,7 @@ const locItems = [
   {
     label: '사업 참가신청',
     options: [
-      { to: '/bigbuyer/finder', label: '빅바이어마케팅' },
+      { to: '/bm/big-data', label: '빅바이어마케팅' },
       { to: '/apply', label: '사업 참가신청' },
     ],
     current: '사업 참가신청',

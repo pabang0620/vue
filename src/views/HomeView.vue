@@ -52,7 +52,7 @@ function onSlideChange(index) {
           <div class="hvb-rule"></div>
           <!-- 자동 슬라이더 컴포넌트 -->
           <HeroSlider @slide-change="onSlideChange" />
-          <RouterLink to="/bigbuyer/finder" class="hvb-btn">서비스 바로가기</RouterLink>
+          <RouterLink to="/bm/big-data" class="hvb-btn">서비스 바로가기</RouterLink>
         </div>
         <!-- 오른쪽: 슬라이드 연동 비주얼 -->
         <div class="hvb-map-wrap">

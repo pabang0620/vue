@@ -38,7 +38,7 @@ onUnmounted(() => {
       </h1>
       <nav>
         <ul class="gnb">
-          <li><RouterLink to="/bigbuyer/finder">빅바이어 마케팅</RouterLink></li>
+          <li><RouterLink to="/bm/big-data">빅바이어 마케팅</RouterLink></li>
           <li><RouterLink to="/apply">사업 참가신청</RouterLink></li>
         </ul>
       </nav>
@@ -60,7 +60,7 @@ onUnmounted(() => {
   <!-- 모바일 내비게이션 -->
   <div class="mobile-nav" :class="{ open: mobileNavOpen }">
     <ul>
-      <li><RouterLink to="/bigbuyer/finder" @click="closeMobileNav">빅바이어 마케팅</RouterLink></li>
+      <li><RouterLink to="/bm/big-data" @click="closeMobileNav">빅바이어 마케팅</RouterLink></li>
       <li><a href="#" @click="closeMobileNav">공지사항</a></li>
     </ul>
     <div class="m-util">

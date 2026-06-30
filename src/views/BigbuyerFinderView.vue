@@ -107,7 +107,7 @@ const locBarItems = [
   {
     label: '빅바이어마케팅',
     options: [
-      { label: '빅바이어마케팅', to: '/bigbuyer/finder' },
+      { label: '빅바이어마케팅', to: '/bm/big-data' },
       { label: '사업 참가신청', to: '/apply' },
     ],
     current: '빅바이어마케팅',
@@ -115,7 +115,7 @@ const locBarItems = [
   {
     label: '빅데이터 바이어 발굴',
     options: [
-      { label: '빅데이터 바이어 발굴', to: '/bigbuyer/finder' },
+      { label: '빅데이터 바이어 발굴', to: '/bm/big-data' },
       { label: '임시저장내역', to: '/bigbuyer/history' },
     ],
     current: '빅데이터 바이어 발굴',
@@ -273,7 +273,7 @@ const locBarItems = [
               <option value="100">100건</option>
               <option value="150">150건</option>
             </select>
-            <RouterLink to="/bigbuyer/send" class="btn-marketing-write">
+            <RouterLink to="/bm/push" class="btn-marketing-write">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/>
                 <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/>

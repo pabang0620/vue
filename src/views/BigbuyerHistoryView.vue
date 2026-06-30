@@ -52,7 +52,7 @@ function goToPage(page) {
 
 // ── 행 클릭 → 발송 페이지 이동 ──────────────────────────────
 function goToSend() {
-  router.push('/bigbuyer/send')
+  router.push('/bm/push')
 }
 
 // ── LocBar 아이템 ─────────────────────────────────────────────
@@ -61,7 +61,7 @@ const locBarItems = [
     label: '빅바이어마케팅',
     current: '빅바이어마케팅',
     options: [
-      { label: '빅바이어마케팅', to: '/bigbuyer/finder' },
+      { label: '빅바이어마케팅', to: '/bm/big-data' },
       { label: '사업 참가신청',  to: '/apply' },
     ],
   },
@@ -69,7 +69,7 @@ const locBarItems = [
     label: '임시저장내역',
     current: '임시저장내역',
     options: [
-      { label: '빅데이터 바이어 발굴', to: '/bigbuyer/finder' },
+      { label: '빅데이터 바이어 발굴', to: '/bm/big-data' },
       { label: '임시저장내역',         to: '/bigbuyer/history' },
     ],
   },
