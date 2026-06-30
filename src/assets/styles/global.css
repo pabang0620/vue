@@ -28,6 +28,11 @@ body .loc-select { font-weight: 400; }
 .cms-chips { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; }
 /* 카테고리 2·3차 빈 상태 안내(.sidebar-empty-hint)를 .cat-item과 좌측 정렬 맞춤 */
 .cat-list .sidebar-empty-hint { display: block; padding: 7px 14px; }
+/* 카테고리 그리드 컬럼이 min-width:auto(긴 항목 너비)로 인해 1차가 과점 → 2·3차 줄바꿈되는 문제.
+   min-width:0으로 3등분 균등 분할 + 긴 항목은 .cat-item의 nowrap/ellipsis로 말줄임 처리. */
+.cat-col { min-width: 0; }
+/* 이미 선택된 3차 카테고리 조합은 회색 비활성 처리 (중복 선택 방지) */
+.cat-item--used { color: #C9D2DC; pointer-events: none; cursor: default; }
 /* sticky 흰 배경 불투명도 상향 (0.78 → 0.88, body 접두로 페이지 CSS보다 특이도 우선) */
 body .loc-bar.is-sticky,
 body .page-title-area.is-sticky,
