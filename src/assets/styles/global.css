@@ -27,7 +27,7 @@ body .loc-select { font-weight: 400; }
 body .loc-bar.is-sticky,
 body .page-title-area.is-sticky,
 body .content-header.is-sticky {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.90);
 }
 .section-title { text-align: center; margin-bottom: 48px; }
 .section-title h2 { font-size: 36px; font-weight: 800; color: var(--dark); line-height: 1.3; }
