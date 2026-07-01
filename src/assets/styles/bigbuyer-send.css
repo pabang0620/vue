@@ -312,8 +312,9 @@
 }
 .file-attach-hint { font-size: 13px; color: #999; margin-top: 6px; }
 @media (max-width: 767px) {
-  .file-attach-wrap { flex-direction: column; align-items: flex-start; gap: 8px; }
-  .file-attach-hint { order: -1; margin-top: 0; }
+  .file-attach-wrap { flex-direction: row; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .file-attach-hint { order: -1; flex-basis: 100%; margin-top: 0; }
+  .btn-file-choose { flex: 1; justify-content: center; }
 }
 .btn-file-choose {
   display: inline-flex;
@@ -556,9 +557,21 @@ input[type="file"] { display: none; }
   .page-title-area { position: static; flex-direction: column; gap: 6px; }
   .page-title-area h2 { font-size: 24px; }
 
-  /* 액션 바 */
+  /* 액션 바 — 모바일에선 상단 건수선택+발송 숨김 (하단에 동일 기능 있음) */
   .send-action-bar { flex-direction: column; align-items: flex-start; }
-  .send-action-right { width: 100%; justify-content: flex-start; }
+  .send-action-right { display: none; }
+  /* 좌측 4버튼(임시저장·내역 / 템플릿·작성팁)을 2×2 균등 그리드로 정돈 */
+  .send-action-left { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; width: 100%; }
+  .send-action-left .btn-outline { height: 44px; justify-content: center; padding: 0 10px; }
+
+  /* 하단 버튼 — 임시저장·발송건수를 같은 크기로 한 줄, 발송은 아래 풀폭 */
+  .form-bottom-btns { gap: 8px; }
+  .form-bottom-btns .btn-bottom-outline,
+  .form-bottom-btns .send-count-select,
+  .form-bottom-btns .btn-bottom-primary { height: 48px; font-size: 15px; padding: 0 14px; }
+  .form-bottom-btns .btn-bottom-outline { flex: 1; justify-content: center; }
+  .form-bottom-btns .send-count-select { flex: 1; }
+  .form-bottom-btns .btn-bottom-primary { flex-basis: 100%; justify-content: center; }
 
   /* 폼 */
   .form-row { flex-direction: column; }

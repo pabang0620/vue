@@ -41,6 +41,42 @@ const allData = ref([
 // renderTable(data) → computed tableData
 const tableData = computed(() => allData.value)
 
+// ── 체크박스 선택 상태 ────────────────────────────────────────
+const selectedNos = ref([])
+
+const allChecked = computed(
+  () => tableData.value.length > 0 && selectedNos.value.length === tableData.value.length
+)
+
+const isIndeterminate = computed(
+  () => selectedNos.value.length > 0 && selectedNos.value.length < tableData.value.length
+)
+
+function toggleAll() {
+  if (allChecked.value) {
+    selectedNos.value = []
+  } else {
+    selectedNos.value = tableData.value.map(row => row.no)
+  }
+}
+
+function toggleRow(no) {
+  if (selectedNos.value.includes(no)) {
+    selectedNos.value = selectedNos.value.filter(n => n !== no)
+  } else {
+    selectedNos.value = [...selectedNos.value, no]
+  }
+}
+
+function deleteSelected() {
+  if (selectedNos.value.length === 0) {
+    alert('삭제할 항목을 선택해 주세요.')
+    return
+  }
+  allData.value = allData.value.filter(row => !selectedNos.value.includes(row.no))
+  selectedNos.value = []
+}
+
 // ── 페이지네이션 ─────────────────────────────────────────────
 const currentPage = ref(1)
 const totalPages = ref(3)
@@ -104,13 +140,23 @@ const locBarItems = [
       <div class="result-area">
         <div class="result-header">
           <p class="result-count">총 <strong>{{ tableData.length }}</strong>건</p>
+          <button class="btn-delete" @click="deleteSelected">선택 삭제</button>
         </div>
 
         <div class="result-table-wrap">
           <table class="result-table">
             <thead>
               <tr>
-                <th style="width:60px;">No</th>
+                <th style="width:60px;" class="col-check">
+                  <input
+                    type="checkbox"
+                    :checked="allChecked"
+                    :indeterminate="isIndeterminate"
+                    @change="toggleAll"
+                    @click.stop
+                    aria-label="전체 선택"
+                  />
+                </th>
                 <th style="width:180px;">대상바이어</th>
                 <th>제목</th>
                 <th style="width:160px;">임시저장 일시</th>
@@ -126,7 +172,15 @@ const locBarItems = [
                 class="clickable-row"
                 @click="goToSend()"
               >
-                <td>{{ row.no }}</td>
+                <td class="col-check">
+                  <input
+                    type="checkbox"
+                    :checked="selectedNos.includes(row.no)"
+                    @change="toggleRow(row.no)"
+                    @click.stop
+                    :aria-label="`항목 ${row.no} 선택`"
+                  />
+                </td>
                 <td>
                   바이어 발굴<br>
                   <span style="font-size:13px;color:#888;font-weight:400;">(발송건수: {{ row.count }})</span>
