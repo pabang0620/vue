@@ -31,6 +31,8 @@ body .loc-select { font-weight: 400; }
 /* 카테고리 그리드 컬럼이 min-width:auto(긴 항목 너비)로 인해 1차가 과점 → 2·3차 줄바꿈되는 문제.
    min-width:0으로 3등분 균등 분할 + 긴 항목은 .cat-item의 nowrap/ellipsis로 말줄임 처리. */
 .cat-col { min-width: 0; }
+/* 푸터 로고 2개(CTP + LINKER)를 나란히 정렬 (layout.css의 display:block 오버라이드) */
+body .footer__logo { display: flex; align-items: center; gap: 16px; }
 /* 이미 선택된 3차 카테고리 조합은 회색 비활성 처리 (중복 선택 방지) */
 .cat-item--used { color: #C9D2DC; pointer-events: none; cursor: default; }
 /* sticky 흰 배경 불투명도 상향 (0.78 → 0.88, body 접두로 페이지 CSS보다 특이도 우선) */

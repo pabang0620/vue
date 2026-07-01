@@ -25,6 +25,7 @@ function onFamilySiteChange(e) {
       </div>
       <div class="footer__logo">
         <img src="https://www.ctp.or.kr/css/egovframework/img/userpage/header-logo.png" alt="CTP 수출지원서비스" />
+        <img src="/nicelinker-logo.png" alt="LINKER" />
       </div>
       <div class="footer__info-row">
         <address class="site-address">
