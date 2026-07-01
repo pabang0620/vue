@@ -70,7 +70,7 @@ const locBarItems = [
     current: '임시저장내역',
     options: [
       { label: '빅데이터 바이어 발굴', to: '/bm/big-data' },
-      { label: '임시저장내역',         to: '/bigbuyer/history' },
+      { label: '임시저장내역',         to: '/bm/tmp' },
     ],
   },
 ]

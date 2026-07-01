@@ -50,7 +50,7 @@ const locItems = [
     options: [
       { to: '/bm/big-data', label: '빅데이터 바이어 발굴' },
       { to: '/bm/push', label: '마케팅 메시지 발송' },
-      { to: '/bigbuyer/history', label: '임시저장내역' },
+      { to: '/bm/tmp', label: '임시저장내역' },
     ],
     current: '마케팅 메시지 발송',
   },
@@ -116,7 +116,7 @@ onUnmounted(() => {
           <button type="button" class="btn-outline" @click="handleTempSave">
             <i class="fa-regular fa-floppy-disk"></i> 임시저장
           </button>
-          <RouterLink to="/bigbuyer/history" class="btn-outline">
+          <RouterLink to="/bm/tmp" class="btn-outline">
             <i class="fa-solid fa-clock-rotate-left"></i> 임시저장내역
           </RouterLink>
           <button type="button" class="btn-outline" @click="showTemplateModal = true">

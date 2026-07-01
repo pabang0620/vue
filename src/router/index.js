@@ -15,7 +15,7 @@ export default createRouter({
     { path: '/apply/history',      component: ApplyHistoryView },
     { path: '/apply/detail',       component: ApplyDetailView },
     { path: '/bm/big-data',    component: BigbuyerFinderView },
-    { path: '/bigbuyer/history',   component: BigbuyerHistoryView },
+    { path: '/bm/tmp',   component: BigbuyerHistoryView },
     { path: '/bm/push',      component: BigbuyerSendView },
   ],
   scrollBehavior: () => ({ top: 0 }),
