@@ -263,10 +263,6 @@ function handleSubmit() {
               <span><b>항목명</b>을 클릭하면 해당 서식(양식)을 다운로드할 수 있습니다. 서식 작성 후 우측에서 문서를 업로드해 주세요.</span>
             </p>
             <AttachmentList />
-            <div class="file-notes">
-              <p><span>※</span><span>간접지원 신청 시 공급처 비용 견적서 및 사업자등록증을 추가 제출해야 합니다.</span></p>
-              <p><span>※</span><span>붙임 서류는 발급 6개월 이내본으로 준비해 주세요.</span></p>
-            </div>
           </section>
 
           <!-- 제출 -->
